@@ -1,0 +1,17 @@
+# MilliRota v1.0 - YOLOv11 Dataset Konfigürasyonu
+# TEKNOFEST 2026
+
+path: /Users/balim/Desktop/millirota_dataset
+train: train/images
+val:   val/images
+
+nc: 7
+
+names:
+  0: insan
+  1: tasit_hareketli
+  2: tasit_hareketsiz
+  3: uai_uygun
+  4: uai_uygun_degil
+  5: uap_uygun
+  6: uap_uygun_degil
