@@ -1,6 +1,0 @@
-ultralytics>=8.4.0
-opencv-python>=4.13.0
-numpy>=1.26
-requests>=2.32
-python-dotenv>=1.0.0
-flask>=3.0   # sadece mock_server.py / lokal test için
